@@ -1,0 +1,19 @@
+.banner__subtitle {
+  margin: 32px auto 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.22;
+  text-align: center;
+  white-space: pre-line;
+  max-width: 90vh;
+}
+
+@media (max-width: 767px) {
+  .banner__subtitle {
+    font-size: 14px;
+    line-height: 1.14;
+    margin: 16px 16px 0;
+    white-space: unset;
+  }
+}
