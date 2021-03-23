@@ -1,16 +1,16 @@
 .content {
-  max-width: 1184px;
+  width: 100%;
   margin: 0 auto;
 }
 
-@media (max-width: 1023px) {
+@media (min-width: 768px) {
   .content {
-    max-width: 1023px;
+    max-width: 728px;
   }
 }
 
-@media (max-width: 767px) {
+@media (min-width: 1440px) {
   .content {
-    width: 100%;
+    max-width: 1170px;
   }
 }
