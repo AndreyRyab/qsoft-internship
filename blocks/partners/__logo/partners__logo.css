@@ -1,0 +1,6 @@
+.partners__logo {
+  object-fit: scale-down;
+  object-position: center;
+  max-width: 40%;
+  margin: 10px 20px;
+}

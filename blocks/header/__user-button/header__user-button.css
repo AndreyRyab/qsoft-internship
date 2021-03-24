@@ -1,5 +1,4 @@
 .header__user-button {
-
   width: 24px;
   height: 24px;
   border: none;
@@ -7,6 +6,7 @@
   background-color: inherit;
   cursor: pointer;
   transition: ease-in-out 300ms;
+  margin: 0 20px;
 }
 
 .header__user-button:hover {

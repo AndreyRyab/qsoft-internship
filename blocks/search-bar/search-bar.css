@@ -1,10 +1,25 @@
 .search-bar {
-  border-top: 1px solid #BBC4D6;
-  width: 100%;
+  display: flex;
+  flex-grow:1;
+  border-top: 1px solid #bbc4d6;
 }
 
 @media (min-width: 500px) {
   .search-bar {
     border: none;
+    padding: 0 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .search-bar {
+    border: none;
+    padding: 0 50px;
+  }
+}
+
+@media (min-width: 780px) {
+  .search-bar {
+    padding: 0 60px;
   }
 }

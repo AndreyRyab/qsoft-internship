@@ -1,14 +1,19 @@
 .profile {
+  flex-shrink:0;
   width: 148px;
   height: 80px;
-  background-color: bisque;
   display: flex;
   align-items: center;
   padding: 0 20px;
+  border-left: 1px solid #EBEBF1;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 499px) {
   .profile {
     display: none;
   }
+}
+
+.profile:hover {
+  cursor: pointer;
 }
