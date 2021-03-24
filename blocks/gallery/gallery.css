@@ -1,5 +1,5 @@
 .gallery {
-  margin: 0 auto 92px;
+  margin: 200px auto 92px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   grid-template-rows: auto;
@@ -11,7 +11,7 @@
 
 @media (max-width: 1279px) {
   .gallery {
-    margin: 0 48px 92px;
+    margin: 200px 48px 92px;
     gap: 14px;
   }
 }
@@ -19,7 +19,7 @@
 @media (max-width: 1023px) {
   .gallery {
     grid-template-columns: repeat(2, 1fr);
-    margin: 0 24px 88px;
+    margin: 200px 24px 88px;
     gap: 16px;
   }
 }
@@ -27,7 +27,7 @@
 @media (max-width: 767px) {
   .gallery {
     grid-template-columns: repeat(1, 1fr);
-    margin: 0 16px 15px;
+    margin: 200px 16px 15px;
     gap: 12px;
   }
 }

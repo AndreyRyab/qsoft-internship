@@ -1,0 +1,14 @@
+.profile {
+  width: 148px;
+  height: 80px;
+  background-color: bisque;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+@media (max-width: 500px) {
+  .profile {
+    display: none;
+  }
+}
