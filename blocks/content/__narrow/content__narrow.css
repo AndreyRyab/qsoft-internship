@@ -1,0 +1,9 @@
+.content__narrow {
+  margin: 0 20px;
+}
+
+@media (min-width: 1480px) {
+  .content__narrow {
+    margin: 0;
+  }
+}

@@ -1,0 +1,25 @@
+.search-bar__input {
+  width: 100%;
+  height: 41px;
+  border: none;
+  background-color: #ffffff;
+  background-image: url("../../../images/header-search-icon.png");
+  background-position: 23px center;
+  background-repeat: no-repeat;
+  padding-left: 46px;
+  font-size: 14px;
+  line-height: 17px;
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: #bbc4d6;
+}
+
+@media (min-width: 500px) {
+  .search-bar__input {
+    border: 1px solid #ebebf1;
+    border-radius: 5px;
+    height: 40px;
+    font-family: "Roboto";
+    line-height: 16px;
+  }
+}

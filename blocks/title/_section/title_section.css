@@ -1,0 +1,13 @@
+.title_section {
+  font-size: 28px;
+  line-height: 1.6;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 70px;
+}
+
+@media (min-width: 1023px) {
+  .title_section {
+    font-size: 36px;
+  }
+}

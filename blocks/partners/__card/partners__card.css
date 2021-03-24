@@ -1,0 +1,30 @@
+.partners__card {
+  display: flex;
+  flex-shrink: 0;
+  height: 140px;
+  width: 100%;
+  align-content: center;
+  justify-content: center;
+  border: 1px solid #ebebf1;
+  border-radius: 5px;
+}
+
+@media (min-width: 768px) {
+  .partners__card {
+    height: 120px;
+    max-width: 225px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .partners__card {
+    height: 100px;
+    max-width: 320px;
+  }
+}
+
+.partners__card:hover {
+  box-shadow: -3px 0px 40px rgba(0, 0, 0, 0.1),
+    0px 0px 10px rgba(164, 164, 164, 0.03);
+  cursor: pointer;
+}
