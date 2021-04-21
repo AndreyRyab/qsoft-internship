@@ -1,5 +1,5 @@
 .profile__userpic {
-  background-image: url('/images/userpic.jpg');
+  background-image: url('../../../images/userpic.jpg');
   content: '';
   border-radius: 100%;
   width: 40px;
