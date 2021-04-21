@@ -1,5 +1,5 @@
 .profile__userpic {
-  background-image: url('https://s3-alpha-sig.figma.com/img/b7b9/6ad8/d3eb4a2036057e5f2d6ade3e2173dfd1?Expires=1617580800&Signature=HSa9qw-pB4QEumw6Pn1mm7tbu844Ef0aXJQJZ~HLJg~bIwpk~V--z4ZuuJkfaolDTFEbyvRUFg~aNaRg2EUJpAyTLkN2VQEUzKw8CLdfy78-d~gTVOnOmOdQJsl~n5gLC7Qx-paV2WX6-nrtTfcoL7ahYxqUDf6L-hWUGBC3E7IxkohBvkLyM63-mwUKAizg~NdiR~4zYxr2KV818GUk0zRWcNRWciW0Qt~-3LBJa1oc0QNf-V5rAScXZqJL~Eqtzz5BxR66laDqWw~h2h8CsfbEQ~GHIfoR8JbqVc52Iy6AE7e5n4hkRQjA8K7flro8VQyEuaiXtmcdDwkzyqS01w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA');
+  background-image: url('/images/userpic.jpg');
   content: '';
   border-radius: 100%;
   width: 40px;
