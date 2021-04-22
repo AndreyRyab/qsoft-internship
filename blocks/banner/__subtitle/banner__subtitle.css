@@ -1,0 +1,27 @@
+.banner__subtitle {
+  color: white;
+  font-size: 13px;
+  line-height: 1.6;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin: 20px 0 30px;
+  max-width: 50%;
+}
+
+@media (min-width: 580px) {
+  .banner__subtitle {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .banner__subtitle {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1023px) {
+  .banner__subtitle {
+    font-size: 25px;
+  }
+}

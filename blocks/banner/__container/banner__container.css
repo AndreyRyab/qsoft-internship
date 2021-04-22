@@ -1,0 +1,22 @@
+.banner__container {
+  display: none;
+  position: relative;
+}
+
+.banner__container:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #2a2c2f;
+  opacity: 0.3;
+  transition: opacity 0.5s ease;
+}
+
+.banner__container:hover:before {
+  opacity: 0.5;
+  cursor: pointer;
+}

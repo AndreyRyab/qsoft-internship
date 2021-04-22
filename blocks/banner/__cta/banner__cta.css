@@ -1,0 +1,15 @@
+.banner__cta {
+  margin-left: 20px;
+}
+
+@media (min-width: 768px) {
+  .banner__cta {
+    margin-left: 30px;
+  }
+}
+
+@media (min-width: 1023px) {
+  .banner__cta {
+    margin-left: 80px;
+  }
+}

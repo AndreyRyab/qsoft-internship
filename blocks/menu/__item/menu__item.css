@@ -1,0 +1,11 @@
+.menu__item {
+  border: 1px solid #ebebf1;
+  border-radius: 5px;
+  padding: 15px 20px;
+  width: 20%;
+  margin: 0 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s ease;
+}

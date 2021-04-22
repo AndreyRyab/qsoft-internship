@@ -1,0 +1,13 @@
+.banner__btn-text {
+  margin: 0;
+  font-size: 17px;
+  font-weight: 600;
+  color: white;
+  transition: 0.3s ease;
+}
+
+.banner__btn-container:hover .banner__btn-text {
+  color: black;
+}
+
+
