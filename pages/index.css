@@ -23,7 +23,6 @@
 @import url(../blocks/title/title.css);
 @import url(../blocks/title/_section/title_section.css);
 @import url(../blocks/menu/menu.css);
-@import url(../blocks/menu/__list-container/menu__list-container.css);
 @import url(../blocks/menu/__list/menu__list.css);
 @import url(../blocks/menu/__item/menu__item.css);
 @import url(../blocks/menu/__item/_active/menu__item_active.css);
@@ -40,3 +39,7 @@
 @import url(../blocks/banner/__btn-text/banner__btn-text.css);
 @import url(../blocks/banner/__container/_visible/banner__container_visible.css);
 @import url(../blocks/banner/__wrapper-cta/banner__wrapper-cta.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

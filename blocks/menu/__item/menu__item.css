@@ -2,10 +2,28 @@
   border: 1px solid #ebebf1;
   border-radius: 5px;
   padding: 15px 20px;
-  width: 20%;
-  margin: 0 10px;
+  width: 27%;
+  margin: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
   transition: 0.3s ease;
+}
+
+@media (min-width: 425px) {
+  .menu__item {
+    width: 30%;
+  }
+}
+
+@media (min-width: 768px) {
+  .menu__item {
+    width: 10%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .menu__item {
+    width: 13%;
+  }
 }

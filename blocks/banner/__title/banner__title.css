@@ -1,16 +1,23 @@
 .banner__title {
-  font-size: 20px;
+  font-size: 17px;
   color: white;
   line-height: 1.2;
   font-weight: 700;
   text-transform: uppercase;
   margin: 0;
-  max-width: 60%;
+  max-width: 80%;
+}
+
+@media (min-width: 425px) {
+  .banner__title {
+    font-size: 20px;
+  }
 }
 
 @media (min-width: 580px) {
   .banner__title {
     font-size: 30px;
+    max-width: 60%;
   }
 }
 
