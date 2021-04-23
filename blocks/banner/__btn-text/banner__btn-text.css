@@ -1,0 +1,23 @@
+.banner__btn-text {
+  margin: 0;
+  font-size: 11px;
+  font-weight: 600;
+  color: white;
+  transition: 0.3s ease;
+}
+
+.banner__btn-text:hover .banner__btn-text {
+  color: black;
+}
+
+@media (min-width: 425px) {
+  .banner__btn-text {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .banner__btn-text {
+    font-size: 17px;
+  }
+}
