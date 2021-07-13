@@ -1,4 +1,4 @@
-# Вёрстка главной страницы для интернет-магазина Qsoft
+# Online store main page
 
 Is avalable here: https://andreyryab.github.io/qsoft-internship/
 
