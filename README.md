@@ -1,16 +1,18 @@
 # Вёрстка главной страницы для интернет-магазина Qsoft
 
-Проект доступен по [ссылке](https://andreyryab.github.io/qsoft-internship/).
+Is avalable here: https://andreyryab.github.io/qsoft-internship/
 
-## Секции и функциональность
+## Features
 
-- хедер
-- интерактивное меню, при наведении на пункт меню меняется главный баннер. Реализовано с помощью максимально простого JS-кода.
-- галерея лого партнёров
-- футер
+- interactive menu
+- responsive layout (flexbox)
 
-### Технологии
+### Techs
 
 - HTML
 - CSS
 - JavaScript
+
+### Running locally
+
+Download https://github.com/AndreyRyab/qsoft-internship.git then run with Local server.
