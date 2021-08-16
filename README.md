@@ -5,7 +5,7 @@ Is avalable here: https://andreyryab.github.io/qsoft-internship/
 ## Features
 
 - interactive menu
-- responsive layout (flexbox)
+- responsive markup (flexbox)
 
 ### Techs
 
